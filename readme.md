@@ -1,0 +1,1 @@
+Repository containing SQL scripts, Python notebooks, and Power BI dashboards for building data warehouses, running ETL pipelines, and generating business intelligence reports.
